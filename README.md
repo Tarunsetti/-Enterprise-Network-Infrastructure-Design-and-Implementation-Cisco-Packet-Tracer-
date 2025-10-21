@@ -120,5 +120,7 @@ Switch(config-if)# ip address 172.16.3.129 255.255.255.240     </br>
 Switch(config-if)# ip helper-address 172.16.3.130          </br>
 
 
+## DHCP POOL Configuration ##
+<img width="1919" height="963" alt="Image" src="https://github.com/user-attachments/assets/a6c04925-18a4-44e8-92c6-0890219088fd" />
 
 
