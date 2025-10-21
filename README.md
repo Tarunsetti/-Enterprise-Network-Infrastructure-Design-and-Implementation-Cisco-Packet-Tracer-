@@ -271,7 +271,9 @@ access-list 1 permit 172.16.3.128 0.0.0.15       </br>
 ip nat inside source list 1 interface Serial0/0/1 overload   </br>
 ip route 0.0.0.0 0.0.0.0 Serial0/0/0      </br>
 ip route 0.0.0.0 0.0.0.0 Serial0/0/1 60    </br>
-</br>
+</br>  
+<img width="1054" height="317" alt="Image" src="https://github.com/user-attachments/assets/91a8a75f-df25-4b9a-ab11-8e8b743dea3d" />
+
 Edge router-2   </br>
 </br>
 interface GigabitEthernet0/0   </br>
