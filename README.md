@@ -233,6 +233,7 @@ interface GigabitEthernet1/0/2      </br>
  network 172.16.3.144 0.0.0.3 area 0      </br>  
  network 172.16.3.148 0.0.0.3 area 0          </br>
    </br>
+<img width="1039" height="900" alt="Image" src="https://github.com/user-attachments/assets/fbb8e74f-dd7e-442f-b3e1-1146654b062c" />
 
 ## Edge router's & Ospf Configuration     </br>
 </br>
