@@ -10,3 +10,4 @@ The network also integrates wireless access points for mobility and redundant IS
 Overall, the project demonstrates a realistic enterprise-level infrastructure that delivers reliability, security, and full connectivity across all departments.
 
 ## Network Topology </br>
+<img width="912" height="550" alt="Image" src="https://github.com/user-attachments/assets/8b9d4bd9-9b32-4360-8eef-03f219b8440e" />
