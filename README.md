@@ -210,7 +210,9 @@ router ospf 10            </br>
    </br>
 ip route 0.0.0.0 0.0.0.0 GigabitEthernet1/0/1      </br>
 ip route 0.0.0.0 0.0.0.0 GigabitEthernet1/0/2 70       </br>
-   </br>
+   </br> 
+<img width="1027" height="894" alt="Image" src="https://github.com/user-attachments/assets/76146788-fadf-4edf-bb09-6a236cd1c8cc" />
+
    
 In Multilayer Switch-2     </br> 
 </br> 
