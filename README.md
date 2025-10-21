@@ -85,7 +85,8 @@ Purpose:
 IT department maintains the network, performs troubleshooting, and manages user access.     </br>
 Server Room ensures centralized resource sharing, data backup, and service reliability.     </br>
 
-<img width="461" height="583" alt="Image" src="https://github.com/user-attachments/assets/42dc0820-ffbc-4721-b37d-20769504d59b" />
+<img width="461" height="583" alt="Image" src="https://github.com/user-attachments/assets/83d6745d-9488-4615-b262-95913f3728e7" />
+
 ## Configuration   </br>   
 ## Console & Privileged  Configuration
  </br>
