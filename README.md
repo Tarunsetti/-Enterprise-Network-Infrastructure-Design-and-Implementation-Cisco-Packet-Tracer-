@@ -63,7 +63,7 @@ Purpose:              </br>
 Finance handles secure transactions and data access.                      </br>
 Administration and PR manage organizational coordination and communication.        </br>
  </br>
- <img width="575" height="631" alt="Image" src="https://github.com/user-attachments/assets/04d8ae44-4dad-418c-8e9f-4718e9b7d09d" />
+<img width="575" height="631" alt="Image" src="https://github.com/user-attachments/assets/94f99528-1857-4df0-b7b1-499f6808600c" />
 
  ## FLOOR-3   </br>
  </br>
