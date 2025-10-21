@@ -308,7 +308,10 @@ access-list 1 permit 172.16.3.128 0.0.0.15   </br>
 
 ip route 0.0.0.0 0.0.0.0 Serial0/0/1            </br>
 ip route 0.0.0.0 0.0.0.0 Serial0/0/0 60         </br>
-ip nat inside source list 1 interface Serial0/0/1 overload    </br>
+ip nat inside source list 1 interface Serial0/0/1 overload    </br> 
+
+<img width="1040" height="350" alt="Image" src="https://github.com/user-attachments/assets/48ab0f39-5a20-48c3-ad19-ae8b4b8f6030" />
+
 
 ## ISP Configuration     </br>
 </br>
