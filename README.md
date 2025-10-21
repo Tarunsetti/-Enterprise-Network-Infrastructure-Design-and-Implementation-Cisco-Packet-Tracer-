@@ -43,7 +43,7 @@ Sales focuses on client communication and database access.       </br>
 HR manages employee records and internal systems with secured access.         </br>
 </br>
 
-<img width="513" height="636" alt="Image" src="https://github.com/user-attachments/assets/09e55483-3250-4f0f-8f42-66cc674a8d97" />
+<img width="513" height="636" alt="Image" src="https://github.com/user-attachments/assets/e5b3e0b0-e9d5-487e-a394-d4a09ad2c439" />
 
 ## FLOOR-2    </br>
 </br>
