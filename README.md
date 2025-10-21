@@ -21,7 +21,71 @@ Overall, the topology ensures secure, redundant, and reliable connectivity throu
 
 <img width="912" height="550" alt="Image" src="https://github.com/user-attachments/assets/8b9d4bd9-9b32-4360-8eef-03f219b8440e" />
 
- 
+
+ ## FLOOR-1
+
+Floor 1 – Sales & Human Resources  </br>
+</br>
+Departments:    </br>
+Sales & Marketing        </br>
+HR & Logistics      </br>
+VLAN Configuration:              </br>
+VLAN 10: Sales & Marketing – 172.16.1.0/25      </br>
+VLAN 20: HR & Logistics – 172.16.1.128/25    </br>
+Devices:   </br>
+PCs, Laptops, Printers, and Smartphones connected through Access Switches.      </br>
+Each department has its own subnet for traffic isolation and better bandwidth utilization      </br>
+Connectivity:           </br>
+Both VLANs are connected to Layer 3 Switch 0 (MLS0) for inter-VLAN routing.       </br>
+Traffic is routed to the distribution layer and then to edge routers for internet access     </br>
+Purpose:              </br>
+Sales focuses on client communication and database access.       </br>
+HR manages employee records and internal systems with secured access.         </br>
+</br>
+
+<img width="513" height="636" alt="Image" src="https://github.com/user-attachments/assets/09e55483-3250-4f0f-8f42-66cc674a8d97" />
+
+## FLOOR-2    </br>
+</br>
+Floor 2 – Finance & Administration    </br>
+Departments:       </br>
+Finance & Accounts       </br>
+Administration & Public Relations     </br>
+VLAN Configuration:                 </br>
+VLAN 30: Finance & Accounts – 172.16.2.0/25     </br>
+VLAN 40: Admin & PR – 172.16.2.128/25      </br>
+Devices:    </br>
+Desktop PCs, Laptops, Network Printers, and Wi-Fi access points.    </br>
+Connectivity:         </br>
+Connected via Layer 3 Switch 1 (MLS1) with OSPF routing to ensure fast and reliable inter-floor communication.      </br>
+Redundant links provide high availability and load balancing between floors           </br>
+Purpose:              </br>
+Finance handles secure transactions and data access.                      </br>
+Administration and PR manage organizational coordination and communication.        </br>
+ </br>
+ <img width="575" height="631" alt="Image" src="https://github.com/user-attachments/assets/04d8ae44-4dad-418c-8e9f-4718e9b7d09d" />
+
+ ## FLOOR-3   </br>
+ </br>
+Floor 3 – ICT Department & Server Room
+ </br>
+Departments:     </br>
+IT Support       </br>
+Server Operations        </br>
+VLAN Configuration:       </br>
+VLAN 50: IT Department – 172.16.3.0/25     </br>
+VLAN 60: Server Room – 172.16.3.128/28      </br>
+Devices:      </br>
+Includes DHCP, DNS, Web, and File Servers.       </br>
+IT department has management PCs, laptops, and monitoring systems.     </br>
+Connectivity:     </br>
+Redundant connections to both Layer 3 Switches (MLS0 & MLS1) for fault tolerance.      </br>
+The server VLAN provides centralized services to all other floors.       </br>
+Purpose:
+IT department maintains the network, performs troubleshooting, and manages user access.     </br>
+Server Room ensures centralized resource sharing, data backup, and service reliability.     </br>
+
+<img width="461" height="583" alt="Image" src="https://github.com/user-attachments/assets/42dc0820-ffbc-4721-b37d-20769504d59b" />
 ## Configuration   </br>   
 ## Console & Privileged  Configuration
  </br>
